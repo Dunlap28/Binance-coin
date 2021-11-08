@@ -1,0 +1,1 @@
+{"status":"1","message":"OK","result":[{"account":"0x3f349bBaFEc1551819B8be1EfEA2fC46cA749aA1","balance":"1000000000000000000"},{"account":"0x83EBba62B9232f2a6cB16576Af9D48b349D1816d","balance":"1360781339999309248"},{"account":"0x70F657164e5b75689b64B7fd1fA275F334f28e18","balance":"4999790000000000000"}]}
